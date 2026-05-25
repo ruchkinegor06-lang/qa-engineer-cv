@@ -1,75 +1,176 @@
-# qa-engineer-cv
-# 👋 Привет меня зовут Егор!
+<div align="center">
 
-## 👨‍💻Обо мне:
+# 👋 Привет, меня зовут Егор!
 
-Detail-oriented QA Engineer focused on manual testing, web and mobile application testing, and quality assurance processes.  
-Experienced in creating testing documentation, bug reporting, and working with modern QA tools.
+### QA Engineer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ручное+тестирование;Тестирование+веб+и+мобильных+приложений;API+тестирование;Нахожу+баги+раньше+пользователей+🐞"/>
 
-# 🛠 Tools & Technologies
+<br>
 
-## 📋 Testing Documentation
+<p>
+<img src="https://img.shields.io/badge/Ручное_тестирование-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
+</p>
 
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-## 🌐 Web Application Testing
-
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-## 📱 Mobile Application Testing
+# 🚀 Обо мне:
 
-![Android](https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS_Testing-000000?style=for-the-badge&logo=apple&logoColor=white)
+QA Engineer, ориентированный на обеспечение качества веб и мобильных приложений.
 
----
+Имею опыт работы с тестовой документацией, API-тестированием, поиском и оформлением багов.
 
-## 🗄 Working with Data
+🔹 Ручное тестирование
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Postman](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+🔹 Тестирование веб-приложений
 
----
+🔹 Тестирование мобильных приложений
 
-## 💻 Working with Code
+🔹 API тестирование
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+🔹 Составление баг-репортов
+
+🔹 Контроль качества продукта
 
 ---
 
-# 📂 Portfolio Projects
+# 🛠 Стек и инструменты:
 
-## 🔹 Testing Documentation
-Test cases, checklists, bug reports, and testing artifacts.
+### Документация и рабочие инструменты
 
-## 🔹 Web Application Testing
-Functional, UI/UX, and cross-browser testing examples.
+<div align="left">
 
-## 🔹 Mobile Application Testing
-Testing scenarios and reports for Android/iOS applications.
+<img src="https://skillicons.dev/icons?i=figma,git,github,gitlab,md"/>
 
-## 🔹 API Testing
-API requests, collections, and validation examples.
+<br><br>
 
----
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
-# 📫 Contacts
+<img src="https://img.shields.io/badge/TestRail-65C179?style=flat-square"/>
 
-- Telegram: https://t.me/Tipocooll
-- Email: ruchkin.egor06@bk.ru
+</div>
 
 ---
 
-⭐ Open to QA Engineer opportunities
+### Инструменты тестирования
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+
+</div>
+
+---
+
+# 🎯 Сейчас изучаю и развиваю:
+
+🔹 API тестирование
+
+🔹 Основы автоматизации
+
+🔹 SQL
+
+🔹 Создание QA-портфолио
+
+---
+
+# 📂 Портфолио:
+
+### 🔹 Тестирование веб-приложений
+
+✔️ Функциональное тестирование
+
+✔️ UI/UX тестирование
+
+✔️ Кроссбраузерное тестирование
+
+✔️ Баг-репорты
+
+✔️ Тест-кейсы
+
+---
+
+### 🔹 Тестирование мобильных приложений
+
+✔️ Android
+
+✔️ iOS
+
+✔️ Проверка пользовательских сценариев
+
+---
+
+### 🔹 API тестирование
+
+✔️ Коллекции запросов
+
+✔️ Проверка запросов
+
+✔️ Проверка ответов
+
+---
+
+# 🔥 Этапы тестирования:
+
+Анализ требований
+
+⬇️
+
+Создание тест-кейсов
+
+⬇️
+
+Проведение тестирования
+
+⬇️
+
+Создание баг-репортов
+
+⬇️
+
+Повторная проверка
+
+⬇️
+
+Регрессионное тестирование
+
+---
+
+# 📫 Контакты:
+
+<div align="center">
+
+<a href="https://t.me/Tipocooll">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:ruchkin.egor06@bk.ru">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐️ Открыт для предложений и новых возможностей
+
+</div>
