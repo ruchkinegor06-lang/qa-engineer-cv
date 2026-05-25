@@ -1,7 +1,7 @@
 # qa-engineer-cv
 # 👋 Egor 
 
-## QA Engineer
+## 👨‍💻Обо мне:
 
 Detail-oriented QA Engineer focused on manual testing, web and mobile application testing, and quality assurance processes.  
 Experienced in creating testing documentation, bug reporting, and working with modern QA tools.
