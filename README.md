@@ -67,8 +67,8 @@ API requests, collections, and validation examples.
 
 # 📫 Contacts
 
-- Telegram: @your_username
-- Email: your_email@gmail.com
+- Telegram: https://t.me/Tipocooll
+- Email: ruchkin.egor06@bk.ru
 
 ---
 
