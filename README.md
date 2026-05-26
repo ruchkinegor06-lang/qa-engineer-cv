@@ -92,9 +92,7 @@ QA Engineer, ориентированный на обеспечение каче
 
 # 📂 Портфолио:
 
-### 🔹 Тестирование веб-приложений
-
-✔️ Функциональное тестирование
+✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/17qabaL7xtCFyGTgdDppm8OV6YIaJRkytL7fsm0kaVko/edit?usp=sharing)
 
 ✔️ UI/UX тестирование
 
