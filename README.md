@@ -104,7 +104,7 @@ QA Engineer, ориентированный на обеспечение каче
 
 ### 🔹 Игра "DRONE"
 
-✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/1aB04HJQEQdF2OORpAkY0E1BheucqVKrdSyEQViGqYHk/edit?usp=sharing) [Bag-Reports](
+✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/1aB04HJQEQdF2OORpAkY0E1BheucqVKrdSyEQViGqYHk/edit?usp=sharing)  ✔️ [Bag-Reports](https://docs.google.com/spreadsheets/d/10acxkytBVAmJmnRjqPV24ivjcGtFgRwCWwJTYELnGgk/edit?usp=sharing)
 
 ---
 
