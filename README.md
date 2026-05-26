@@ -92,7 +92,9 @@ QA Engineer, ориентированный на обеспечение каче
 
 # 📂 Портфолио:
 
-✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/17qabaL7xtCFyGTgdDppm8OV6YIaJRkytL7fsm0kaVko/edit?usp=sharing)
+### 🔹 Unitrobot-Simulator
+
+✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/17qabaL7xtCFyGTgdDppm8OV6YIaJRkytL7fsm0kaVko/edit?usp=sharing) [Bag-Reports](
 
 ✔️ UI/UX тестирование
 
@@ -100,11 +102,13 @@ QA Engineer, ориентированный на обеспечение каче
 
 ✔️ Баг-репорты
 
-✔️ Тест-кейсы
+### 🔹 Игра "DRONE"
+
+✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/1aB04HJQEQdF2OORpAkY0E1BheucqVKrdSyEQViGqYHk/edit?usp=sharing) [Bag-Reports](
 
 ---
 
-### 🔹 Тестирование мобильных приложений
+  Тестирование мобильных приложений
 
 ✔️ Android
 
