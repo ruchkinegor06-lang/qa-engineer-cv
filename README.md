@@ -4,7 +4,7 @@
 
 ### QA Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=#Ручное+тестирование;#Тестирование+веб+и+мобильных+приложений;#API+тестирование;#Нахожу+баги+раньше+пользователей+🐞"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ручное+тестирование;Тестирование+веб+и+мобильных+приложений;API+тестирование;Нахожу+баги+раньше+пользователей+🐞"/>
 
 <br>
 
