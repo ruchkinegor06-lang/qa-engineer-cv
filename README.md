@@ -9,10 +9,10 @@
 <br>
 
 <p>
-<img# src="https://img.shields.io/badge/Ручное_тестирование-58A6FF?style=for-the-badge"/>
-<img# src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
-<img# src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
-<img# src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ручное_тестирование-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile_Testing-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-58A6FF?style=for-the-badge"/>
 </p>
 
 </div>
