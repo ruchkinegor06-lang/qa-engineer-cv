@@ -94,7 +94,7 @@ QA Engineer, ориентированный на обеспечение каче
 
 ### 🔹 Unitrobot-Simulator
 
-✔️ [Teast-cases](https://docs.google.com/spreadsheets/d/17qabaL7xtCFyGTgdDppm8OV6YIaJRkytL7fsm0kaVko/edit?usp=sharing) 
+✔️ [Test-cases](https://docs.google.com/spreadsheets/d/17qabaL7xtCFyGTgdDppm8OV6YIaJRkytL7fsm0kaVko/edit?usp=sharing) 
 
 ✔️ UI/UX тестирование
 
